@@ -1,0 +1,6 @@
+.complete{
+    border-bottom:1px solid #5f0f;
+}
+.incomplete{
+    border-bottom: 1px solid #f8092d;
+}
