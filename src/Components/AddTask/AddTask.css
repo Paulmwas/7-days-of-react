@@ -1,0 +1,10 @@
+.add-task{
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+}
+.add-task form input{
+    font-size: 50px;
+    border-radius: 30px;
+    padding: 20px 30px;
+}
